@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    padding-top: 55px;
+}
+
+.card{
+    min-height: 420px;
+}
+.col-sm{
+    /*background-color: #e9ecef;*/
+}
